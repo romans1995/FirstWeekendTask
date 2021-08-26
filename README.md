@@ -4,8 +4,8 @@ _read all the tasks before starting_
 
 ## Your tasks:
 
-- [ ] Fork this repository to your github
-- [ ] With github desktop clone the repo and open it in vs code
+- [x] Fork this repository to your github
+- [x] With github desktop clone the repo and open it in vs code
 - [ ] Fulfill the user stories and get all of the tests to pass
 - [ ] For <strong>each</strong> user story submit a commit to github
 - [ ] Give it your own personal style
