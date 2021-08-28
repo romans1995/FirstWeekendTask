@@ -1,6 +1,7 @@
 @import url('http://fonts.cdnfonts.com/css/decoder');
 body {
   font-family: "Lato", sans-serif;
+  margin:0;
 }
 footer{
     background-color: #818181;
@@ -73,6 +74,7 @@ img{
   transition: 0.5s;
   display: inline-block;
   color:#06fc50;
+  margin-left: 10px;
 
 }
 code{
