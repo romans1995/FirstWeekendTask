@@ -6,6 +6,10 @@ footer{
 }
 header{
 }
+#btn-wrapper{
+  box-shadow: 1px 1px #000000;
+  background: rgb(184, 184, 184);
+}
 #wrapper{
   display:flex ;
 }
