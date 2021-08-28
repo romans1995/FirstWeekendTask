@@ -1,3 +1,4 @@
+@import url('http://fonts.cdnfonts.com/css/decoder');
 body {
   font-family: "Lato", sans-serif;
 }
@@ -38,9 +39,10 @@ main{
   padding: 8px 8px 8px 32px;
   text-decoration: none;
   font-size: 25px;
-  color: #818181;
+  color: #81ec72;
   display: block;
   transition: 0.3s;
+  font-family:'Decoder', sans-serif;
 }
 
 .sidenav > a:hover {
@@ -64,4 +66,16 @@ a{
 }
 img{
   width:100%;
+}
+#menu-btn{
+  font-size: 30px;
+  cursor: pointer;
+  transition: 0.5s;
+  display: inline-block;
+  color:#06fc50;
+
+}
+code{
+  color:#06fc50;
+  background-color: #111;
 }
